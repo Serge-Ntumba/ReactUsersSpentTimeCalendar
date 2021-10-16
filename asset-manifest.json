@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactUsersSpentTimeCalendar/static/css/main.119ab144.chunk.css",
+    "main.js": "/ReactUsersSpentTimeCalendar/static/js/main.0764458d.chunk.js",
+    "main.js.map": "/ReactUsersSpentTimeCalendar/static/js/main.0764458d.chunk.js.map",
+    "runtime-main.js": "/ReactUsersSpentTimeCalendar/static/js/runtime-main.c499327b.js",
+    "runtime-main.js.map": "/ReactUsersSpentTimeCalendar/static/js/runtime-main.c499327b.js.map",
+    "static/js/2.023f435f.chunk.js": "/ReactUsersSpentTimeCalendar/static/js/2.023f435f.chunk.js",
+    "static/js/2.023f435f.chunk.js.map": "/ReactUsersSpentTimeCalendar/static/js/2.023f435f.chunk.js.map",
+    "static/js/3.9eaae268.chunk.js": "/ReactUsersSpentTimeCalendar/static/js/3.9eaae268.chunk.js",
+    "static/js/3.9eaae268.chunk.js.map": "/ReactUsersSpentTimeCalendar/static/js/3.9eaae268.chunk.js.map",
+    "index.html": "/ReactUsersSpentTimeCalendar/index.html",
+    "static/css/main.119ab144.chunk.css.map": "/ReactUsersSpentTimeCalendar/static/css/main.119ab144.chunk.css.map",
+    "static/js/2.023f435f.chunk.js.LICENSE.txt": "/ReactUsersSpentTimeCalendar/static/js/2.023f435f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c499327b.js",
+    "static/js/2.023f435f.chunk.js",
+    "static/css/main.119ab144.chunk.css",
+    "static/js/main.0764458d.chunk.js"
+  ]
+}
